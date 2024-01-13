@@ -1,0 +1,1 @@
+Scraping booking.com Leavenworth WA 
